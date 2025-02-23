@@ -6,9 +6,9 @@
 > [old versions](https://gitcode.com/PowerGlue/GTools_Python?ref=history_version)
 ****
 
-> [chinese 中文](https://gitcode.com/PowerGlue/GTools_Python/blob/main/README_zh-cn.md)
+> [chinese 中文](https://github.com/A01-opika/GTools_Python/blob/main/README_zh-cn.md)
 
-> [Japanese 日本語](https://gitcode.com/PowerGlue/GTools_Python/blob/main/README_jp.md)
+> [Japanese 日本語](https://gitcode.com/A01-opika/GTools_Python/blob/main/README_jp.md)
 
 a Python library(including helps file)
 
