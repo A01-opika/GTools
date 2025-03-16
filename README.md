@@ -1,9 +1,8 @@
 # GTools
 ****
 ## downloads
-> [latest version](https://gitcode.com/PowerGlue/GTools_Python/blob/latest_version/GTools_v1.2.2.7z)
+> [latest version](https://github.com/A01-opika/GTools/blob/latest_version/GTools_v1.2.2.7z)
 
-> [old versions](https://gitcode.com/PowerGlue/GTools_Python?ref=history_version)
 ****
 
 > [chinese 中文](https://github.com/A01-opika/GTools_Python/blob/main/README_zh-cn.md)
